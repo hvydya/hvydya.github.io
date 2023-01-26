@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Time for reflection!"
-date:   2023-01-26 13:249:42 +0530
+date:   2023-01-26 13:24:42 +0530
 categories: blog learnings
 ---
 
